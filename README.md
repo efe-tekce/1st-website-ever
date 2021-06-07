@@ -1,2 +1,3 @@
 # 1st-website-ever
-My first website using only HTML&amp;CSS
+This is my first website using only HTML&amp;CSS.
+Made as a FreeCodeCamp project.
